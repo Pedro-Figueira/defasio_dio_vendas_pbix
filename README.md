@@ -11,7 +11,7 @@ Além da construção dos visuais principais, o relatório também contempla pon
 | Segmentadores utilizados | Foram adicionados segmentadores para permitir filtros dinâmicos nas análises. |
 | Botões com imagem associada | Alguns botões foram configurados com imagens associadas, tornando a navegação mais visual e intuitiva. |
 | Indicadores e botões interativos | Foram utilizados indicadores e botões para permitir a seleção de diferentes visuais sobre o mesmo assunto. |
-| Modelagem Star Schema,
+| Modelagem Star Schema  | Transformado no modelo em questão a partir de um modelo relacional
 
 ---
 
