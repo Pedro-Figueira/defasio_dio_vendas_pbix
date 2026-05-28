@@ -11,6 +11,7 @@ Além da construção dos visuais principais, o relatório também contempla pon
 | Segmentadores utilizados | Foram adicionados segmentadores para permitir filtros dinâmicos nas análises. |
 | Botões com imagem associada | Alguns botões foram configurados com imagens associadas, tornando a navegação mais visual e intuitiva. |
 | Indicadores e botões interativos | Foram utilizados indicadores e botões para permitir a seleção de diferentes visuais sobre o mesmo assunto. |
+| Modelagem Star Schema,
 
 ---
 
@@ -26,4 +27,9 @@ Desafio 01
 Desafio 02
 
 <img width="1175" height="733" alt="image" src="https://github.com/user-attachments/assets/6c8def67-c7f5-43b1-80fc-873c554b26f1" />
+
+
+Desafio 3 
+
+<img width="718" height="677" alt="image" src="https://github.com/user-attachments/assets/935da6e8-800a-4754-bd6b-8928a319fcaa" />
 
